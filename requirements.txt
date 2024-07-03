@@ -1,0 +1,12 @@
+streamlit
+google-cloud-bigquery
+google-cloud-aiplatform
+google-cloud-discoveryengine
+pydantic
+typing-inspect
+typing_extensions
+langchain
+langchain-community
+langchain-google-vertexai 
+langchain-google-community
+langchain-google-community[vertexaisearch]
